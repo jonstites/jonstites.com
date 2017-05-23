@@ -1,0 +1,8 @@
+# main links links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /resume/
+  - title: "Public Key"
+    url: /public_key/
