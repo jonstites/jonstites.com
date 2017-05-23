@@ -36,6 +36,7 @@ include:
   - .htaccess
   - _pages
 exclude:
+  - vendor
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
