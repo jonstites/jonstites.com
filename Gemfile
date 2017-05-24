@@ -22,3 +22,4 @@ gem "jemoji"
 gem "jekyll-feed"
 gem "wdm", ">= 0.1.0" if Gem.win_platform?
 gem "minimal-mistakes-jekyll"
+gem "jekyll-sitemap"
