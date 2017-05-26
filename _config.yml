@@ -27,7 +27,7 @@ author:
   bio              : "Computer science Masters student at UT Austin."
   location         : "Austin, Texas"
   email            : "mail@jonstites.com"
-  uri              : "https://jonstites.com"
+  uri              : #"https://jonstites.com"
   github           : "jonstites"
   keybase          :
 
