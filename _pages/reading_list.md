@@ -2,6 +2,7 @@
 title: "Reading List"
 layout: single
 permalink: /reading_list/
+description: "Some of the books I've read."
 ---
 
 ## Currently Reading (last updated May 2017)

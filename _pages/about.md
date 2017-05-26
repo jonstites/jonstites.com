@@ -2,6 +2,7 @@
 title: "About Me"
 layout: single
 permalink: /about/
+description: "Information about me."
 ---
 
 I'm a computer science Masters student at the University of Texas at Austin.
