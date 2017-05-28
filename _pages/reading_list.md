@@ -11,6 +11,8 @@ description: "Some of the books I've read."
 
 [Meditations](https://www.amazon.com/gp/product/0143036270) by Marcus Aurelius
 
+[Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
+
 ## 2017
 
 1. [Algorithms To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/B01D24NAL6) by Brian Christian and Tom Griffiths
