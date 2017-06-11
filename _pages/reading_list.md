@@ -7,11 +7,11 @@ description: "Some of the books I've read."
 
 ## Currently Reading (last updated May 2017)
 
-[Earth](https://www.amazon.com/Earth-David-Brin/dp/055329024X) by David Brin
+* [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
 
-[Meditations](https://www.amazon.com/gp/product/0143036270) by Marcus Aurelius
+* [Earth](https://www.amazon.com/Earth-David-Brin/dp/055329024X) by David Brin
 
-[Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
+* [Meditations](https://www.amazon.com/gp/product/0143036270) by Marcus Aurelius
 
 ## 2017
 
@@ -19,6 +19,7 @@ description: "Some of the books I've read."
 2. [Childhood's End](https://www.amazon.com/Childhoods-End-Del-Rey-Impact/dp/0345444051) by Arthur C. Clark
 3. [Mindfulness in Plain English](https://www.amazon.com/Mindfulness-English-Bhante-Henepola-Gunaratana/dp/0861719069) by Bhante Gunaratana
 4. [Bobby Fischer Teaches Chess](https://www.amazon.com/Bobby-Fischer-Teaches-Chess/dp/0553263153) by Bobby Fischer
+5. [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
 
 ## 2016
 
