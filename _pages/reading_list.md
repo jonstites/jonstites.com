@@ -5,11 +5,15 @@ permalink: /reading_list/
 description: "Some of the books I've read."
 ---
 
-## Currently Reading (last updated June 2017)
+## Currently Reading (last updated {% last_modified_at %B %d, %Y %})
 
 * [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
 
 * [Gateway](https://www.amazon.com/Gateway-Heechee-Saga-Frederik-Pohl/dp/0345475836) by Frederik Pohl
+
+* [Style: Toward Clarity and Grace](https://www.amazon.com/Style-Clarity-Chicago-Writing-Publishing/dp/0226899152) by Joseph Williams
+
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 
 * [Meditations](https://www.amazon.com/gp/product/0143036270) by Marcus Aurelius
 
