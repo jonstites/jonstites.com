@@ -7,7 +7,7 @@ description: "Some of the books I've read."
 
 ## Currently Reading (last updated {% last_modified_at %B %d, %Y %})
 
-* [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
+* [The Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
 
 * [Gateway](https://www.amazon.com/Gateway-Heechee-Saga-Frederik-Pohl/dp/0345475836) by Frederik Pohl
 
@@ -25,6 +25,7 @@ description: "Some of the books I've read."
 4. [Bobby Fischer Teaches Chess](https://www.amazon.com/Bobby-Fischer-Teaches-Chess/dp/0553263153) by Bobby Fischer
 5. [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
 6. [Earth](https://www.amazon.com/Earth-David-Brin/dp/055329024X) by David Brin
+7. [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
 
 ## 2016
 
