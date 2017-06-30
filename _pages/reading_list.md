@@ -9,8 +9,6 @@ description: "Some of the books I've read."
 
 * [The Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
 
-* [Gateway](https://www.amazon.com/Gateway-Heechee-Saga-Frederik-Pohl/dp/0345475836) by Frederik Pohl
-
 * [Style: Toward Clarity and Grace](https://www.amazon.com/Style-Clarity-Chicago-Writing-Publishing/dp/0226899152) by Joseph Williams
 
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
@@ -26,6 +24,8 @@ description: "Some of the books I've read."
 5. [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
 6. [Earth](https://www.amazon.com/Earth-David-Brin/dp/055329024X) by David Brin
 7. [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
+8. [Gateway](https://www.amazon.com/Gateway-Heechee-Saga-Frederik-Pohl/dp/0345475836) by Frederik Pohl
+9. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0440178002) by James Clavell
 
 ## 2016
 
