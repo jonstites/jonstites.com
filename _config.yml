@@ -24,10 +24,10 @@ yandex_site_verification :
 author:
   name             : "Jonathan Stites"
   avatar           : "assets/images/bio-photo.jpg"
-  bio              : "Computer science Masters student at UT Austin."
+  bio              : "A semi-competent bag of cells."
   location         : "Austin, Texas"
   email            : "mail@jonstites.com"
-  uri              : #"https://jonstites.com"
+  uri              : 
   github           : "jonstites"
   keybase          :
 
@@ -150,9 +150,6 @@ defaults:
       comments: true
       share: true
       related: true
-
-defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
