@@ -26,6 +26,7 @@ description: "Some of the books I've read."
 7. [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
 8. [Gateway](https://www.amazon.com/Gateway-Heechee-Saga-Frederik-Pohl/dp/0345475836) by Frederik Pohl
 9. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0440178002) by James Clavell
+10. [Focus](https://www.amazon.com/Focus-Simplicity-Manifesto-Age-Distraction/dp/1434103072) by Leo Babauta
 
 ## 2016
 
