@@ -27,7 +27,7 @@ description: "Some of the books I've read."
 8. [Gateway](https://www.amazon.com/Gateway-Heechee-Saga-Frederik-Pohl/dp/0345475836) by Frederik Pohl
 9. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0440178002) by James Clavell
 10. [Focus](https://www.amazon.com/Focus-Simplicity-Manifesto-Age-Distraction/dp/1434103072) by Leo Babauta
-
+11. [So Good They Can't Ignore You](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124) by Cal Newport
 ## 2016
 
 1. [Dark Matter](https://www.amazon.com/Dark-Matter-Novel-Blake-Crouch/dp/1101904240) by Blake Crouch
