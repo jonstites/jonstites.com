@@ -24,7 +24,7 @@ yandex_site_verification :
 author:
   name             : "Jonathan Stites"
   avatar           : "assets/images/bio-photo.jpg"
-  bio              : "A semi-competent bag of cells."
+  bio              : "A moderately competent bag of cells."
   location         : "Austin, Texas"
   email            : "mail@jonstites.com"
   uri              : 
@@ -146,7 +146,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
