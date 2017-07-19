@@ -29,6 +29,7 @@ description: "Some of the books I've read."
 10. [Focus](https://www.amazon.com/Focus-Simplicity-Manifesto-Age-Distraction/dp/1434103072) by Leo Babauta
 11. [So Good They Can't Ignore You](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124) by Cal Newport
 12. [Starting Strength](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522738) by Mark Rippetoe
+13. [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) by Cal Newport
 
 ## 2016
 
