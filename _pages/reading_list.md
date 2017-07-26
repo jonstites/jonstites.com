@@ -13,6 +13,8 @@ description: "Some of the books I've read."
 
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
 
+* [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie
+
 ## 2017
 
 1. [Algorithms To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/B01D24NAL6) by Brian Christian and Tom Griffiths
@@ -29,6 +31,7 @@ description: "Some of the books I've read."
 12. [Starting Strength](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522738) by Mark Rippetoe
 13. [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) by Cal Newport
 14. [Meditations](https://www.amazon.com/gp/product/0143036270) by Marcus Aurelius
+15. [Practical Programming for Strength Training](https://www.amazon.com/Practical-Programming-Strength-Training-Rippetoe/dp/0982522754) by Mark Rippetoe and Andy Baker
 
 ## 2016
 
