@@ -15,6 +15,8 @@ description: "Some of the books I've read."
 
 * [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie
 
+* [Dreamsongs: Volume 1](https://www.amazon.com/Dreamsongs-I-George-R-Martin/dp/0553385682) by George R. R. Martin and Gardner Dozois
+
 ## 2017
 
 1. [Algorithms To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/B01D24NAL6) by Brian Christian and Tom Griffiths
@@ -32,6 +34,9 @@ description: "Some of the books I've read."
 13. [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) by Cal Newport
 14. [Meditations](https://www.amazon.com/gp/product/0143036270) by Marcus Aurelius
 15. [Practical Programming for Strength Training](https://www.amazon.com/Practical-Programming-Strength-Training-Rippetoe/dp/0982522754) by Mark Rippetoe and Andy Baker
+16. [A Scanner Darkly](https://www.amazon.com/Scanner-Darkly-Philip-K-Dick/dp/0547572174) by Philip K. Dick
+17. [Count Zero](https://www.amazon.com/Count-Zero-William-Gibson/dp/0441117732) by William Gibson
+18. [Mona Lisa Overdrive](https://www.amazon.com/Mona-Lisa-Overdrive-William-Gibson/dp/0553281747) by William Gibson
 
 ## 2016
 
