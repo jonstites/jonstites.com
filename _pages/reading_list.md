@@ -20,23 +20,48 @@ description: "Some of the books I've read."
 ## 2017
 
 1. [Algorithms To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/B01D24NAL6) by Brian Christian and Tom Griffiths
+
 2. [Childhood's End](https://www.amazon.com/Childhoods-End-Del-Rey-Impact/dp/0345444051) by Arthur C. Clark
+
 3. [Mindfulness in Plain English](https://www.amazon.com/Mindfulness-English-Bhante-Henepola-Gunaratana/dp/0861719069) by Bhante Gunaratana
+
 4. [Bobby Fischer Teaches Chess](https://www.amazon.com/Bobby-Fischer-Teaches-Chess/dp/0553263153) by Bobby Fischer
+
 5. [Code Complete 2](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) by Steve McConnell
+
 6. [Earth](https://www.amazon.com/Earth-David-Brin/dp/055329024X) by David Brin
+
 7. [The Pragmatic Programmer: From Journeyman to Master](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) by Andrew Hunt and David Thomas
+
 8. [Gateway](https://www.amazon.com/Gateway-Heechee-Saga-Frederik-Pohl/dp/0345475836) by Frederik Pohl
+
 9. [Shogun](https://www.amazon.com/Shogun-Asian-Saga-James-Clavell/dp/0440178002) by James Clavell
+
 10. [Focus](https://www.amazon.com/Focus-Simplicity-Manifesto-Age-Distraction/dp/1434103072) by Leo Babauta
+
 11. [So Good They Can't Ignore You](https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124) by Cal Newport
+
 12. [Starting Strength](https://www.amazon.com/Starting-Strength-Basic-Barbell-Training/dp/0982522738) by Mark Rippetoe
+
 13. [Deep Work](https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692) by Cal Newport
+
 14. [Meditations](https://www.amazon.com/gp/product/0143036270) by Marcus Aurelius
+
 15. [Practical Programming for Strength Training](https://www.amazon.com/Practical-Programming-Strength-Training-Rippetoe/dp/0982522754) by Mark Rippetoe and Andy Baker
+
 16. [A Scanner Darkly](https://www.amazon.com/Scanner-Darkly-Philip-K-Dick/dp/0547572174) by Philip K. Dick
+
 17. [Count Zero](https://www.amazon.com/Count-Zero-William-Gibson/dp/0441117732) by William Gibson
+
 18. [Mona Lisa Overdrive](https://www.amazon.com/Mona-Lisa-Overdrive-William-Gibson/dp/0553281747) by William Gibson
+
+19. [Kings of the Wyld](https://www.amazon.com/Kings-Wyld-Band-Nicholas-Eames/dp/0316362476/ref=sr_1_1/136-4229429-1977851) by Nicholas Eames
+
+20. [Red Rising](https://www.amazon.com/Red-Rising-Pierce-Brown/dp/034553980X) by Pierce Brown
+
+21. [Golden Son](https://www.amazon.com/Golden-Son-Book-Rising-Saga/dp/0345539834) by Pierce Brown
+
+22. [Morning Star](https://www.amazon.com/Morning-Star-Book-Rising-Saga/dp/0345539869) by Pierce Brown
 
 ## 2016
 
