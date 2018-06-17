@@ -15,13 +15,16 @@ description: "Some of the books I've read."
 
 * [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie
 
-* [Linux System Programming](https://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/1449339530)
+* [Linux System Programming](https://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/1449339530) by Robert Love
 
-* [The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650)
+* [The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650) by Michael Huemer
 
 ## 2018
 
-1. [Dreamsongs: Volume 1](https://www.amazon.com/Dreamsongs-I-George-R-Martin/dp/0553385682) by George R. R. Martin and Gardner Dozois
+1. [Dreamsongs: Volume 1](https://www.amazon.com/Dreamsongs-I-George-R-Martin/dp/0553385682) by George R. R. Martin
+
+2. [What If?](https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994) by Randall Munroe
+
 ## 2017
 
 1. [Algorithms To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/B01D24NAL6) by Brian Christian and Tom Griffiths
