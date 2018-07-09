@@ -15,8 +15,6 @@ description: "Some of the books I've read."
 
 * [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie
 
-* [Linux System Programming](https://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/1449339530) by Robert Love
-
 * [The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650) by Michael Huemer
 
 ## 2018
@@ -24,6 +22,14 @@ description: "Some of the books I've read."
 1. [Dreamsongs: Volume 1](https://www.amazon.com/Dreamsongs-I-George-R-Martin/dp/0553385682) by George R. R. Martin
 
 2. [What If?](https://www.amazon.com/What-If-Scientific-Hypothetical-Questions/dp/0544272994) by Randall Munroe
+
+3. [Caliban's War](https://www.amazon.com/Calibans-War-Expanse-James-Corey/dp/0316129062) by James S. A. Corey
+
+4. [Discover Your Inner Economist: Use Incentives to Fall in Love, Survive Your Next Meeting, and Motivate Your Dentist](https://www.amazon.com/Discover-Your-Inner-Economist-Incentives/dp/0452289637) by Tyler Cowen
+
+5. [The Signal and the Noise: Why So Many Predictions Fail--but Some Don't](https://www.amazon.com/Signal-Noise-Many-Predictions-Fail-but/dp/0143125087) by Nate Silver
+
+6. [Linux System Programming](https://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/1449339530) by Robert Love
 
 ## 2017
 
