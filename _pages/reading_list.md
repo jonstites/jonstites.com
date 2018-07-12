@@ -15,7 +15,7 @@ description: "Some of the books I've read."
 
 * [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie
 
-* [The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650) by Michael Huemer
+
 
 ## 2018
 
@@ -31,6 +31,9 @@ description: "Some of the books I've read."
 
 6. [Linux System Programming](https://www.amazon.com/Linux-System-Programming-Talking-Directly/dp/1449339530) by Robert Love
 
+7. [Abaddon's Gate](https://www.amazon.com/Abaddons-Gate-Expanse-James-Corey/dp/0316129070) by James S. A. Corey
+
+8. [The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650) by Michael Huemer
 ## 2017
 
 1. [Algorithms To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/B01D24NAL6) by Brian Christian and Tom Griffiths
