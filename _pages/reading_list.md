@@ -34,6 +34,9 @@ description: "Some of the books I've read."
 7. [Abaddon's Gate](https://www.amazon.com/Abaddons-Gate-Expanse-James-Corey/dp/0316129070) by James S. A. Corey
 
 8. [The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650) by Michael Huemer
+
+9. [The Myth of the Rational Vote](https://www.amazon.com/Myth-Rational-Voter-Democracies-Policies/dp/0691138737) by Bryan Caplan
+
 ## 2017
 
 1. [Algorithms To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/B01D24NAL6) by Brian Christian and Tom Griffiths
