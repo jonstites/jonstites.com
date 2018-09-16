@@ -37,6 +37,8 @@ description: "Some of the books I've read."
 
 9. [The Myth of the Rational Vote](https://www.amazon.com/Myth-Rational-Voter-Democracies-Policies/dp/0691138737) by Bryan Caplan
 
+10. [The Case against Education: Why the Education System Is a Waste of Time and Money](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652) by Bryan Caplan
+
 ## 2017
 
 1. [Algorithms To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/B01D24NAL6) by Brian Christian and Tom Griffiths
