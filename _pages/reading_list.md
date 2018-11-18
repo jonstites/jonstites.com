@@ -39,6 +39,10 @@ description: "Some of the books I've read."
 
 10. [The Case against Education: Why the Education System Is a Waste of Time and Money](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652) by Bryan Caplan
 
+11. [How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life](https://www.amazon.com/How-Be-Stoic-Ancient-Philosophy/dp/0465097952) by Massimo Pigliucci
+
+12. [What is this thing called Knowledge?](https://www.amazon.com/What-this-thing-called-Knowledge/dp/0415552982) by Duncan Pritchard
+
 ## 2017
 
 1. [Algorithms To Live By](https://www.amazon.com/Algorithms-Live-Computer-Science-Decisions/dp/B01D24NAL6) by Brian Christian and Tom Griffiths
