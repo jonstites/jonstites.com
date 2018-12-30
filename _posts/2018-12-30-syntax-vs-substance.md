@@ -1,7 +1,6 @@
 ---
 title: "Syntax vs substance"
 layout: single
-tags: "quote"
 excerpt: "What makes a programming language useful?"
 ---
 
