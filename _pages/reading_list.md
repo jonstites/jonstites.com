@@ -7,14 +7,7 @@ description: "Some of the books I've read."
 
 ## Currently Reading (last updated {% last_modified_at %B %d, %Y %})
 
-* [The Mythical Man Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
-
-* [Style: Toward Clarity and Grace](https://www.amazon.com/Style-Clarity-Chicago-Writing-Publishing/dp/0226899152) by Joseph Williams
-
-* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
-
-* [How to Win Friends and Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/0671027034) by Dale Carnegie
-
+* [Programming Rust: Fast, Safe Systems Development](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283) by Jim Blandy and Jason Orendorff
 
 
 ## 2018
@@ -42,6 +35,10 @@ description: "Some of the books I've read."
 11. [How to Be a Stoic: Using Ancient Philosophy to Live a Modern Life](https://www.amazon.com/How-Be-Stoic-Ancient-Philosophy/dp/0465097952) by Massimo Pigliucci
 
 12. [What is this thing called Knowledge?](https://www.amazon.com/What-this-thing-called-Knowledge/dp/0415552982) by Duncan Pritchard
+
+13. [Stubborn Attachments](https://www.amazon.com/Stubborn-Attachments-Prosperous-Responsible-Individuals/dp/1732265135) by Tyler Cowen
+
+14. [Dune Messiah](https://www.amazon.com/Dune-Messiah-Chronicles-Book/dp/0441172695) by Frank Herbert
 
 ## 2017
 
