@@ -5,7 +5,7 @@ excerpt: "What makes a programming language useful?"
 ---
 
 Here's an excerpt from a [website](https://fsharpforfunandprofit.com/why-use-fsharp/) about one of the benefits of F#:
->
+
 ```
 // one-liners
 [1..100] |> List.sum |> printfn "sum=%d"
