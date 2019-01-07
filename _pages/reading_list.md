@@ -9,6 +9,9 @@ description: "Some of the books I've read."
 
 * [Programming Rust: Fast, Safe Systems Development](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283) by Jim Blandy and Jason Orendorff
 
+## 2019
+
+1. [Children of Dune](https://www.amazon.com/Children-Dune-Chronicles-Book-Three/dp/0441104029) by Frank Herbert
 
 ## 2018
 
