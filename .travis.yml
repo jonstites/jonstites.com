@@ -6,6 +6,7 @@ rvm:
 - 2.3.3
 
 script:
+- gem update bundler  
 - bundle exec jekyll build
 
 branch:
