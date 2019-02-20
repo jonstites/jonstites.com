@@ -3,10 +3,11 @@ language: ruby
 cache: bundler
 
 rvm:
-- 2.3.3
+- 2.4.1
 
-script:
+before_script:
 - gem update bundler  
+script:
 - bundle exec jekyll build
 
 branch:
