@@ -8,13 +8,13 @@ description: "Some of the books I've read."
 ## Currently Reading (last updated {% last_modified_at %B %d, %Y %})
 
 * [Programming Rust: Fast, Safe Systems Development](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283) by Jim Blandy and Jason Orendorff
-* [The Great Book of Amber: The Complete Amber Chronicles, 1-10](https://www.amazon.com/Great-Book-Amber-Complete-Chronicles/dp/0380809060) by Roger Zelazny
-* [When All Else Fails: The Ethics of Resistance to State Injustice](https://www.amazon.com/When-All-Else-Fails-Resistance/dp/0691181713) by Jason Brennan
 
 ## 2019
 
 1. [Children of Dune](https://www.amazon.com/Children-Dune-Chronicles-Book-Three/dp/0441104029) by Frank Herbert
 2. [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
+3. [The Great Book of Amber: The Complete Amber Chronicles, 1-10](https://www.amazon.com/Great-Book-Amber-Complete-Chronicles/dp/0380809060) by Roger Zelazny
+4. [When All Else Fails: The Ethics of Resistance to State Injustice](https://www.amazon.com/When-All-Else-Fails-Resistance/dp/0691181713) by Jason Brennan
 
 ## 2018
 
