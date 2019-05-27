@@ -6,3 +6,5 @@ main:
     url: /resume/
   - title: "Reading List"
     url: /reading_list/
+  - title: "Best of the Internet"
+    url: /best_of/
