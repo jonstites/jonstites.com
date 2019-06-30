@@ -24,7 +24,7 @@ yandex_site_verification :
 author:
   name             : "Jonathan Stites"
   avatar           : "assets/images/bio-photo.jpg"
-  bio              : "A semi-competent bag of cells."
+  bio              : "Likes to build things. Mostly software."
   location         : "Austin, Texas"
   email            : "mail@jonstites.com"
   uri              : 
@@ -141,7 +141,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "/posts/"
       type: posts
     values:
       layout: single

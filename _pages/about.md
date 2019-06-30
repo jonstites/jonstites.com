@@ -5,13 +5,11 @@ permalink: /about/
 description: "Information about me."
 ---
 
-I'm a computer science Masters student at the University of Texas at Austin.
+Software engineer at The Home Depot working primarily doing data engineering on Google Cloud Platform. My resume has more info on my background.
 
-I did my undergraduate at UC Santa Cruz. I double-majored in Cognitive Science and Molecular, Cell, and Developmental Biology with a minor in Bioinformatics. I had a busy 4 years! 
-
-Then I spent 3 years at Dovetail Genomics doing bioinformatics.
-
-Now I'm in a Masters program at UT Austin and becoming a better programmer.
-
-I definitely love [reading](/reading_list/). I like playing boardgames, piano, gin rummy, and chess, and I'd like to take up archery in 2018.
+Random thoughts:
+  * I really love Rust. I love the ownership system, error handling, traits for inheritance, immutability by default, explicitness about what types of data are copied and when, and how easy it is to write correct, safe, high-performance, concurrent code.
+  * Go is also pretty neat.
+  * Big fan of board games.
+  * Big fan of [books](/reading_list/).
 
