@@ -15,6 +15,7 @@ description: "Some of the books I've read."
 2. [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
 3. [The Great Book of Amber: The Complete Amber Chronicles, 1-10](https://www.amazon.com/Great-Book-Amber-Complete-Chronicles/dp/0380809060) by Roger Zelazny
 4. [When All Else Fails: The Ethics of Resistance to State Injustice](https://www.amazon.com/When-All-Else-Fails-Resistance/dp/0691181713) by Jason Brennan
+5. [We Are Legion (We Are Bob)](https://www.amazon.com/Are-Legion-Bob-Bobiverse-Book-ebook/dp/B01LWAESYQ) by Dennis Taylor
 
 ## 2018
 
