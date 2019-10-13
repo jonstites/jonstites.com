@@ -7,15 +7,40 @@ description: "Some of the books I've read."
 
 ## Currently Reading (last updated {% last_modified_at %B %d, %Y %})
 
-* [Programming Rust: Fast, Safe Systems Development](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283) by Jim Blandy and Jason Orendorff
+* [The Difference Engine](https://www.amazon.com/Difference-Engine-Novel-William-Gibson/dp/0440423627) by William Gibson and Bruce Sterling
+
+* [An Economist Walks into a Brothel: And Other Unexpected Places to Understand Risk](https://www.amazon.com/Economist-Walks-into-Brothel-Unexpected/dp/0525533966) by Allison Schrager
+
+* [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) by Edmond Lau and Bret Taylor
+
+* [Reamde](https://www.amazon.com/Reamde-Novel-Neal-Stephenson/dp/0062191497) by Neal Stephenson
 
 ## 2019
 
 1. [Children of Dune](https://www.amazon.com/Children-Dune-Chronicles-Book-Three/dp/0441104029) by Frank Herbert
+
 2. [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959) by Frederick P. Brooks Jr.
+
 3. [The Great Book of Amber: The Complete Amber Chronicles, 1-10](https://www.amazon.com/Great-Book-Amber-Complete-Chronicles/dp/0380809060) by Roger Zelazny
+
 4. [When All Else Fails: The Ethics of Resistance to State Injustice](https://www.amazon.com/When-All-Else-Fails-Resistance/dp/0691181713) by Jason Brennan
+
 5. [We Are Legion (We Are Bob)](https://www.amazon.com/Are-Legion-Bob-Bobiverse-Book-ebook/dp/B01LWAESYQ) by Dennis Taylor
+
+6. [Programming Rust: Fast, Safe Systems Development](https://www.amazon.com/Programming-Rust-Fast-Systems-Development/dp/1491927283) by Jim Blandy and Jason Orendorff
+
+7. [Seveneves](https://www.amazon.com/Seveneves-Neal-Stephenson/dp/0062334514) by Neal Stephenson
+
+8. [Deathworld](https://www.amazon.com/Deathworld-Harry-Harrison/dp/1976218632) by Harry Harrison
+
+9. [Deathworld 2](https://www.amazon.com/Deathworld-2/dp/B00S74SDIM) by Harry Harrison
+
+10. [Deathworld 3](https://www.amazon.com/Deathworld-3/dp/B00SBVON94) by Harry Harrison
+
+11. [Nemesis](https://www.amazon.com/Nemesis/dp/085750052X) by Isaac Asimov
+
+12. [The Simulacra](https://www.amazon.com/Simulacra-Philip-K-Dick/dp/0547572506) by Philip K. Dick
+
 
 ## 2018
 
