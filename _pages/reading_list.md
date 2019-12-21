@@ -7,8 +7,6 @@ description: "Some of the books I've read."
 
 ## Currently Reading (last updated {% last_modified_at %B %d, %Y %})
 
-* [The Difference Engine](https://www.amazon.com/Difference-Engine-Novel-William-Gibson/dp/0440423627) by William Gibson and Bruce Sterling
-
 * [An Economist Walks into a Brothel: And Other Unexpected Places to Understand Risk](https://www.amazon.com/Economist-Walks-into-Brothel-Unexpected/dp/0525533966) by Allison Schrager
 
 * [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) by Edmond Lau and Bret Taylor
@@ -41,6 +39,9 @@ description: "Some of the books I've read."
 
 12. [The Simulacra](https://www.amazon.com/Simulacra-Philip-K-Dick/dp/0547572506) by Philip K. Dick
 
+13. [The Difference Engine](https://www.amazon.com/Difference-Engine-Novel-William-Gibson/dp/0440423627) by William Gibson and Bruce Sterling
+
+14. [Open Borders: The Science and Ethics of Immigration](https://www.amazon.com/Open-Borders-Science-Ethics-Immigration/dp/1250316960) by Bryan Caplan and Zach Weinersmith
 
 ## 2018
 
