@@ -7,7 +7,6 @@ description: "Some of the books I've read."
 
 ## Currently Reading (last updated {% last_modified_at %B %d, %Y %})
 
-* [An Economist Walks into a Brothel: And Other Unexpected Places to Understand Risk](https://www.amazon.com/Economist-Walks-into-Brothel-Unexpected/dp/0525533966) by Allison Schrager
 
 * [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) by Edmond Lau and Bret Taylor
 
@@ -43,6 +42,7 @@ description: "Some of the books I've read."
 
 14. [Open Borders: The Science and Ethics of Immigration](https://www.amazon.com/Open-Borders-Science-Ethics-Immigration/dp/1250316960) by Bryan Caplan and Zach Weinersmith
 
+15. [An Economist Walks into a Brothel: And Other Unexpected Places to Understand Risk](https://www.amazon.com/Economist-Walks-into-Brothel-Unexpected/dp/0525533966) by Allison Schrager
 ## 2018
 
 1. [Dreamsongs: Volume 1](https://www.amazon.com/Dreamsongs-I-George-R-Martin/dp/0553385682) by George R. R. Martin
