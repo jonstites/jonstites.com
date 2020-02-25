@@ -10,7 +10,13 @@ description: "Some of the books I've read."
 
 * [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) by Edmond Lau and Bret Taylor
 
-* [Reamde](https://www.amazon.com/Reamde-Novel-Neal-Stephenson/dp/0062191497) by Neal Stephenson
+## 2020
+
+1. [The Black Prism](https://www.amazon.com/Black-Prism-Lightbringer-Brent-Weeks/dp/0316246271) by Brent Weeks
+
+2. [The Box](https://www.amazon.com/Box-Shipping-Container-Smaller-Economy/dp/0691170819) by Marc Levinson
+
+3. [Reamde](https://www.amazon.com/Reamde-Novel-Neal-Stephenson/dp/0062191497) by Neal Stephenson
 
 ## 2019
 
@@ -43,6 +49,7 @@ description: "Some of the books I've read."
 14. [Open Borders: The Science and Ethics of Immigration](https://www.amazon.com/Open-Borders-Science-Ethics-Immigration/dp/1250316960) by Bryan Caplan and Zach Weinersmith
 
 15. [An Economist Walks into a Brothel: And Other Unexpected Places to Understand Risk](https://www.amazon.com/Economist-Walks-into-Brothel-Unexpected/dp/0525533966) by Allison Schrager
+
 ## 2018
 
 1. [Dreamsongs: Volume 1](https://www.amazon.com/Dreamsongs-I-George-R-Martin/dp/0553385682) by George R. R. Martin
