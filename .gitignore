@@ -1,8 +1,22 @@
+# -*- mode: gitignore; -*-
+
 *~
-*#
+\#*\#
+
+# Dist files
+lib/
+
+# Node modules
+node_modules/
+
+# MacOS Desktop Services Store
 .DS_Store
-.jekyll-metadata
-.sass-cache
-_asset_bundler_cache
-_site
-assets
+
+# Log files
+*.log
+
+# Typescript build info
+*.tsbuildinfo
+
+# Build website
+blog/.vuepress/dist
