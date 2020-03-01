@@ -1,9 +1,12 @@
-language: node_js
+language: node_j
+
+node_js:
+  - "13"
 
 cache: yarn
 
 script:
-- yard build
+- yarn build
 
 branch:
 - master
