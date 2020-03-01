@@ -1,14 +1,12 @@
-language: ruby
+language: node_j
 
-cache: bundler
+node_js:
+  - "13"
 
-rvm:
-- 2.6.5
+cache: yarn
 
-before_install:
-- gem update bundler  
 script:
-- bundle exec jekyll build
+- yarn build
 
 branch:
 - master
@@ -17,7 +15,7 @@ deploy:
   provider: s3
   bucket: www.jonstites.com  
   skip_cleanup: true
-  local_dir: _site
+  local_dir: blog/.vuepress/dist/
   access_key_id: $AWS_ACCESS_KEY 
   secret_access_key: $AWS_SECRET_KEY
   region: $AWS_DEFAULT_REGION
