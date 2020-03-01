@@ -10,7 +10,6 @@ script:
 
 branch:
 - master
-- feature/vuepress
 
 deploy:
   provider: s3
