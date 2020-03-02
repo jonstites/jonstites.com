@@ -55,11 +55,14 @@ module.exports = {
       ],
     },
     feed: {
-      canonical_base:'http://jonstites.com',
+      canonical_base:'https://jonstites.com',
       rss:true,
       atom:true,
       json:false,
       posts_directories: ["_posts"]
     },
+    sitemap: {
+      hostname: "https://www.jonstites.com"
+    }
   },
 }
