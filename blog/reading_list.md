@@ -18,6 +18,8 @@ description: "Some of the books I've read."
 
 4. [Rendezvous with Rama](https://www.amazon.com/Rendezvous-Rama-Arthur-C-Clarke/dp/0553287893) by Arthur C. Clark
 
+5. [Power Play](https://www.amazon.com/Power-Play-Jake-Ross-Bova/dp/0765357232) by Ben Bova
+
 ## 2019
 
 1. [Children of Dune](https://www.amazon.com/Children-Dune-Chronicles-Book-Three/dp/0441104029) by Frank Herbert
