@@ -20,6 +20,8 @@ description: "Some of the books I've read."
 
 5. [Power Play](https://www.amazon.com/Power-Play-Jake-Ross-Bova/dp/0765357232) by Ben Bova
 
+6. [The Moon Is a Harsh Mistress](https://www.amazon.com/Moon-Harsh-Mistress-Robert-Heinlein/dp/0312863551) by Robert A. Heinlein
+
 ## 2019
 
 1. [Children of Dune](https://www.amazon.com/Children-Dune-Chronicles-Book-Three/dp/0441104029) by Frank Herbert
