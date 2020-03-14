@@ -22,6 +22,8 @@ description: "Some of the books I've read."
 
 6. [The Moon Is a Harsh Mistress](https://www.amazon.com/Moon-Harsh-Mistress-Robert-Heinlein/dp/0312863551) by Robert A. Heinlein
 
+7. [The Andromeda Strain](https://www.amazon.com/Andromeda-Strain-Michael-Crichton/dp/1101974494) by Michael Crichton
+
 ## 2019
 
 1. [Children of Dune](https://www.amazon.com/Children-Dune-Chronicles-Book-Three/dp/0441104029) by Frank Herbert
