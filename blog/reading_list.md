@@ -18,6 +18,14 @@ description: "Some of the books I've read."
 
 4. [Rendezvous with Rama](https://www.amazon.com/Rendezvous-Rama-Arthur-C-Clarke/dp/0553287893) by Arthur C. Clark
 
+5. [Power Play](https://www.amazon.com/Power-Play-Jake-Ross-Bova/dp/0765357232) by Ben Bova
+
+6. [The Moon Is a Harsh Mistress](https://www.amazon.com/Moon-Harsh-Mistress-Robert-Heinlein/dp/0312863551) by Robert A. Heinlein
+
+7. [The Andromeda Strain](https://www.amazon.com/Andromeda-Strain-Michael-Crichton/dp/1101974494) by Michael Crichton
+
+8. [Sundiver](https://www.amazon.com/Sundiver-Uplift-Saga-Book-1/dp/0553269828) by David Brin
+
 ## 2019
 
 1. [Children of Dune](https://www.amazon.com/Children-Dune-Chronicles-Book-Three/dp/0441104029) by Frank Herbert
