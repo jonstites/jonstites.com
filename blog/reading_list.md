@@ -24,6 +24,8 @@ description: "Some of the books I've read."
 
 7. [The Andromeda Strain](https://www.amazon.com/Andromeda-Strain-Michael-Crichton/dp/1101974494) by Michael Crichton
 
+8. [Sundiver](https://www.amazon.com/Sundiver-Uplift-Saga-Book-1/dp/0553269828) by David Brin
+
 ## 2019
 
 1. [Children of Dune](https://www.amazon.com/Children-Dune-Chronicles-Book-Three/dp/0441104029) by Frank Herbert
