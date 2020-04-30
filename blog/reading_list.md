@@ -8,6 +8,8 @@ description: "Some of the books I've read."
 
 * [The Effective Engineer](https://www.amazon.com/Effective-Engineer-Engineering-Disproportionate-Meaningful/dp/0996128107) by Edmond Lau and Bret Taylor
 
+* [Quicksilver](https://www.amazon.com/Quicksilver-Baroque-Cycle-No-1/dp/0060833165) by Neal Stephenson
+
 ## 2020
 
 1. [The Black Prism](https://www.amazon.com/Black-Prism-Lightbringer-Brent-Weeks/dp/0316246271) by Brent Weeks
@@ -29,6 +31,12 @@ description: "Some of the books I've read."
 9. [Ubik](https://www.amazon.com/Ubik-Philip-K-Dick/dp/0547572298) by Philip K. Dick
 
 10. [The Three-Body Problem](https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past/dp/0765377063) by Cixin Liu
+
+11. [Foundation](https://www.amazon.com/Foundation-Isaac-Asimov/dp/0553293354) by Isaac Asimov
+
+12. [Leviathan Wakes](https://www.amazon.com/Leviathan-Wakes-James-S-Corey/dp/0316129089) by James S. A. Corey
+
+13. [Caliban's War](https://www.amazon.com/Calibans-War-Expanse-James-Corey/dp/0316129062) by James S. A. Corey
 
 ## 2019
 
