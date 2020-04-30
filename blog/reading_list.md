@@ -26,6 +26,10 @@ description: "Some of the books I've read."
 
 8. [Sundiver](https://www.amazon.com/Sundiver-Uplift-Saga-Book-1/dp/0553269828) by David Brin
 
+9. [Ubik](https://www.amazon.com/Ubik-Philip-K-Dick/dp/0547572298) by Philip K. Dick
+
+10. [The Three-Body Problem](https://www.amazon.com/Three-Body-Problem-Remembrance-Earths-Past/dp/0765377063) by Cixin Liu
+
 ## 2019
 
 1. [Children of Dune](https://www.amazon.com/Children-Dune-Chronicles-Book-Three/dp/0441104029) by Frank Herbert
@@ -76,7 +80,7 @@ description: "Some of the books I've read."
 
 8. [The Problem of Political Authority](https://www.amazon.com/Problem-Political-Authority-Examination-Coerce/dp/1137281650) by Michael Huemer
 
-9. [The Myth of the Rational Vote](https://www.amazon.com/Myth-Rational-Voter-Democracies-Policies/dp/0691138737) by Bryan Caplan
+9. [The Myth of the Rational Voter](https://www.amazon.com/Myth-Rational-Voter-Democracies-Policies/dp/0691138737) by Bryan Caplan
 
 10. [The Case against Education: Why the Education System Is a Waste of Time and Money](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652) by Bryan Caplan
 
