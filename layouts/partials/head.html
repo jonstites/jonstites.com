@@ -1,0 +1,6 @@
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="jonstites: l33t haxor" />
+{{ $style := resources.Get "main.css" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $style.RelPermalink }}">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/blog/index.xml">

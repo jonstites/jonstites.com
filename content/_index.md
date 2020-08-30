@@ -4,6 +4,8 @@ permalink: /about/
 description: "Information about me."
 ---
 
+You can download my resume [here.](/jonstites_resume.pdf)
+
 Software engineer at The Home Depot working primarily doing data engineering on Google Cloud Platform. My resume has more info on my background.
 
 Random thoughts:
